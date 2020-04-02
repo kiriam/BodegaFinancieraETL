@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EtlDWH", "EtlDWH\EtlDWH.dtproj", "{7704FEEA-74C9-42C2-B9AA-4483B8A4979B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7704FEEA-74C9-42C2-B9AA-4483B8A4979B}.Development|Default.ActiveCfg = Development
+		{7704FEEA-74C9-42C2-B9AA-4483B8A4979B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4793126-6F94-4EA0-8648-756F629D4FD0}
+	EndGlobalSection
+EndGlobal
